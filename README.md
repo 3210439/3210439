@@ -12,6 +12,7 @@
 ![RDBMS](https://img.shields.io/badge/RDBMS-003545?style=flat-square&logo=postgresql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-663399?style=flat-square&logo=hibernate&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=&logoColor=white)
+<br>
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
