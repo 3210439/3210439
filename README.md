@@ -30,10 +30,10 @@
 ## 💞️협업 경험
 
 - 카우치 코딩에서 프로젝트를 진행하였습니다. 백엔드 개발로 기여 하였습니다.
-  https://github.com/Couch-Coders/7th-for_rest-be
+  - https://github.com/Couch-Coders/7th-for_rest-be
 
 - 비사이드에서 모여라 프로젝트를 진행하였습니다.
-  https://github.com/bsideproject/moyora-backend
+  - https://github.com/bsideproject/moyora-backend
 
 
 ## 📫연락처
