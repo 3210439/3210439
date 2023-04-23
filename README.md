@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @3210439
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 안녕하세요 저는 김종완 이라고 합니다. 3년차 백엔드 개발자로 활동하고 있습니다.
+- 👀 기술스택 코틀린, 스프링 부트, RDBMS, JPA, QueryDsl, EC2, RDS, JENKINS, DOCKER, S3
+- 🌱 저는 클린 코드와 DDD를 현재 배우고 있습니다.
+- 💞️ 저는 비사이드, 카우치 코딩등의 활동을 통해 백엔드 개발로 협업을 한 경험이 있고 협업을 하며 같이 성장하는 것을 좋아합니다.
+- 📫 저에게 연락을 원하시면 kg6477@gmail.com으로 연락 주세요
+- 경력 WP솔루션즈 2021.01~2022.06 헥스콘 2022.06~now
 
-<!---
-3210439/3210439 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋소개
+
+- 이름: 김종완
+- 포지션: 백엔드 개발자
+- 경력: 3년
+
+## 👀기술 스택
+
+- 코틀린
+- 스프링 부트
+- RDBMS
+- JPA
+- QueryDsl
+- EC2
+- RDS
+- JENKINS
+- DOCKER
+- S3
+
+## 🌱공부중인 것
+
+- 클린 코드
+- DDD
+
+## 경력
+
+- WP솔루션즈 (2021.01 ~ 2022.06)
+- 헥스콘 (2022.06 ~ 현재)
+
+## 💞️협업 경험
+
+- 비사이드에서 모여라 프로젝트를 진행하였습니다. 백엔드 개발로 기여 하였습니다.
+- 카우치 코딩에서 프로젝트를 진행하였습니다. 백엔드 개발로 기여 하였습니다.
+
+## 📫연락처
+
+- 이메일: kg6477@gmail.com
