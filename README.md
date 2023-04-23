@@ -2,9 +2,11 @@
 
 안녕하세요 저는 3년차 백엔드 개발자 김종완입니다. 지속적이고 재밌는 코딩 스터디를 좋아합니다.
 
-<div align="center">
+
 ## 기술 스택
 
+<div align="center">
+ 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![RDBMS](https://img.shields.io/badge/RDBMS-003545?style=flat-square&logo=postgresql&logoColor=white)
@@ -15,6 +17,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+ 
  </div>
 
 ## 🌱공부중인 것
