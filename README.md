@@ -38,21 +38,6 @@
 
 - WP솔루션즈 (2021.01 ~ 2022.06)
 
-- 헥스콘 (2022.06 ~ 현재)
+- 헥스콘 (2022.06 ~ 2023.10)
 
 <br>
-
-## 💞️협업 경험
-
-- 카우치 코딩에서 전국 관광명소 추천 플랫폼 프로젝트를 진행하였습니다.
-  - https://github.com/Couch-Coders/7th-for_rest-be
-
-- 비사이드에서 초등학교 동창 롤링페이퍼 프로젝트를 진행하였습니다.
-  - https://github.com/bsideproject/moyora-backend
-
-<br>
-
-## 📫연락처
-
-- 이메일 
-  - kg6477@gmail.com
