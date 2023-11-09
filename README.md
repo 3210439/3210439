@@ -23,5 +23,5 @@
 - **새로운 기술을 습득하고 이를 활용하여 더 나은 개발을 하겠습니다.**
 - **개발자로서의 커리어를 발전시켜 나가겠습니다.**
 
-### 백준 티어
+### Baekjoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=3210439)](https://solved.ac/3210439/)
