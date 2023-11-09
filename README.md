@@ -1,44 +1,24 @@
-## 👋소개
+### **About me**
 
-안녕하세요. 백엔드 개발자 김종완입니다. 새로운 것을 배우는 것을 좋아합니다.
-<br>
-재가 개발자로써 중요하게 생각하는 가치는 탄탄한 기본기와 협업 능력 입니다.
+안녕하세요, 저는 백엔드 개발자 김종완 입니다. 2년차 개발자로, 주로 Spring Boot, JPA, kotlin 사용하여 개발을 하고 있습니다.
 
-<br>
+### **Skills**
 
-## 👀기술 스택
+- **기술 스택:** Java, kotlin, Spring Boot, JPA, MySQL, AWS, QueryDsl
+- **개발 경험:** 2년, 백엔드 개발
+- **프로젝트 경험:**
+    - 나무 거래 플랫폼 개발
+    - 기획자 및 개발자 매칭 플랫폼
+    - API 서버 개발
 
-<div align="center">
- 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![RDBMS](https://img.shields.io/badge/RDBMS-003545?style=flat-square&logo=postgresql&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-663399?style=flat-square&logo=hibernate&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
- <br>
-![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
- 
- </div>
- 
-<br>
+### **Strengths**
 
-## 🌱공부중인 것
+- **도메인 지식:** 도메인을 이해하고 이를 기반으로 설계하고 구현하는 능력을 가지고 있습니다.
+- **기술 이해:** 다양한 기술을 이해하고 이를 활용하여 효율적인 개발을 할 수 있습니다.
+- **문제 해결 능력:** 문제를 해결하기 위한 논리적인 사고와 창의적인 아이디어를 가지고 있습니다.
 
-- 클린 코드
+### **Goals**
 
-- DDD
-
-
-<br>
-
-## 📚경력
-
-- WP솔루션즈 (2021.01 ~ 2022.06)
-
-- 헥스콘 (2022.06 ~ 2023.10)
-
-<br>
+- **복잡한 도메인에서도 효과적으로 개발할 수 있는 능력을 키우겠습니다.**
+- **새로운 기술을 습득하고 이를 활용하여 더 나은 개발을 하겠습니다.**
+- **개발자로서의 커리어를 발전시켜 나가겠습니다.**
