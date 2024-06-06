@@ -1,7 +1,11 @@
-About Me
-Hi there! I'm a passionate Full Stack Developer with expertise in Spring Boot and React. Currently, I am expanding my skill set by learning Next.js and exploring server optimization techniques.
+### **About me**
 
-This Year’s Goals
-Develop and launch my own project
-Master server optimization strategies
-Contribute to open-source projects on GitHub
+hi !! there I’m a full stack developer, I’m passionated at programming with Springboot and React.
+
+now I’m learning about next.js and react and how to optimize server.
+
+### **This year’s Goals**
+
+- making my own project
+- learn how to optimize server
+- contribute github’s open source
