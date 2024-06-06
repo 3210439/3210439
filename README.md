@@ -7,3 +7,5 @@ Hi there! I'm a passionate Full Stack Developer with expertise in Spring Boot an
 - Develop and launch my own project
 - learning server optimization strategies
 - Contribute to openSource projects on GitHub
+
+If you are looking for an opensource contributor, please contact me
