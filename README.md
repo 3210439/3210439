@@ -1,27 +1,7 @@
-### **About me**
+About Me
+Hi there! I'm a passionate Full Stack Developer with expertise in Spring Boot and React. Currently, I am expanding my skill set by learning Next.js and exploring server optimization techniques.
 
-안녕하세요, 저는 백엔드 개발자 김종완 입니다. 2년차 개발자로, 주로 Spring Boot, JPA, kotlin 사용하여 개발을 하고 있습니다.
-
-### **Skills**
-
-- **기술 스택:** Java, kotlin, Spring Boot, JPA, MySQL, AWS, QueryDsl
-- **개발 경험:** 2년, 백엔드 개발
-- **프로젝트 경험:**
-    - 나무 거래 플랫폼 개발
-    - 기획자 매칭 플랫폼 개발
-    - API 서버 개발
-
-### **Strengths**
-
-- **도메인 지식:** 도메인을 이해하고 이를 기반으로 설계하고 구현하는 능력을 가지고 있습니다.
-- **기술 이해:** 다양한 기술을 이해하고 이를 활용하여 효율적인 개발을 할 수 있습니다.
-- **문제 해결 능력:** 문제를 해결하기 위한 논리적인 사고와 창의적인 아이디어를 가지고 있습니다.
-
-### **Goals**
-
-- **복잡한 도메인에서도 효과적으로 개발할 수 있는 능력을 키우겠습니다.**
-- **새로운 기술을 습득하고 이를 활용하여 더 나은 개발을 하겠습니다.**
-- **개발자로서의 커리어를 발전시켜 나가겠습니다.**
-
-### Baekjoon Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=3210439)](https://solved.ac/3210439/)
+This Year’s Goals
+Develop and launch my own project
+Master server optimization strategies
+Contribute to open-source projects on GitHub
