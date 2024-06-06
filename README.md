@@ -5,5 +5,5 @@ Hi there! I'm a passionate Full Stack Developer with expertise in Spring Boot an
 ### **This Year’s Goals**
 
 - Develop and launch my own project
-- Master server optimization strategies
-- Contribute to open-source projects on GitHub
+- learning server optimization strategies
+- Contribute to openSource projects on GitHub
