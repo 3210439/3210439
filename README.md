@@ -9,4 +9,4 @@ Hi there! I'm a passionate Full Stack Developer with expertise in Spring Boot an
 - Contribute to openSource projects on GitHub
 
 If you are looking for an opensource contributor, please contact me <br>
-: kgk4779@gmail.com
+: kg64779@gmail.com
