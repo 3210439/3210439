@@ -4,7 +4,7 @@
 저는 자바를 기반으로 견고하고 효율적인 소프트웨어를 개발하는 데 열정을 가진 개발자입니다. 스프링 프레임워크를 활용한 프로젝트에 주로 집중하며, 성능 최적화에 관심이 많습니다.
 
 ## 🔧 기술 스택
-- **언어**: Java, Kotlin, JavaScript
+- **언어**: Java, Kotlin, JavaScript, Typescript
 - **프레임워크**: Spring Boot, angular 1.4.14
 - **데이터베이스**: MySQL
 - **ORM**: Mybatis, JPA, QueryDsl
